@@ -99,14 +99,4 @@ library(ggplot2)
 #####
 #Animation visualization 
 
-library(shiny)
-inter(Year, Anomaly)
 
-
-
-interaction.plot(x.factor = Year, )
-
-library(manipulate)
-
-install.packages("plotly")
-Yes
